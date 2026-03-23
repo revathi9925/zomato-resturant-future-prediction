@@ -35,7 +35,7 @@ An interactive Streamlit dashboard that analyzes restaurant data and predicts fu
 
 ```bash
 # Clone the repository
-git clone https://github.com/revathi9925/zomato-restaurant-prediction.git
+git clone https://github.com/revathi9925/zomato-resturant-future-prediction
 cd zomato-restaurant-prediction
 
 # Install dependencies
